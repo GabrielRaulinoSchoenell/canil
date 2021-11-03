@@ -1,2 +1,3 @@
 # canil
-(learning node) 
+(learning node) (mean branch is master)
+
