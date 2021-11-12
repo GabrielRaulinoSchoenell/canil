@@ -1,3 +1,5 @@
+# principal é o master
+
 # nodets - canil
 
 ## pré requisitos globais: 
